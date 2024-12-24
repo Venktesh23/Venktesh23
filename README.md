@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Venktesh23
-- 👀 I’m interested in FUll Stack software development
-- 🌱 I’m currently learning SQL, Python, and C/C++.
+- 👀 I’m interested in Full Stack Web Development and Cloud Technologies.
+- 🌱 I’m currently learning C++, SQL, and Cloud Technologies.
 - 💞️ I’m looking to collaborate on Open-Source projects and ideas.
 - 😄 Pronouns: He/Him
 

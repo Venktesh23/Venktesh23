@@ -8,8 +8,6 @@
 ---
 
 
----
-
 ## 🔗 Connect with me!
 
 [myLinkedIn](https://www.linkedin.com/in/venktesh-tapadia/)

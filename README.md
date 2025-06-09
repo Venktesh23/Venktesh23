@@ -1,10 +1,13 @@
-# Hi
+# Hi 👋
 
-## 🚀 About Me
+## About Me
 
-- I am Venktesh and I am Computer Science student at the University of South Florida.
+- Hi, I'm Venktesh — a Computer Science student at the University of South Florida.
 
-- Outside the tech world, I enjoy watching football, play fifa and cook food. 
+- Beyond coding, I enjoy playing FIFA and experimenting with new recipes in the kitchen.
+
+- I'm currently diving deep into Large Language Models (LLMs) and AI Agents.
+
 ---
 
 ## 🛠️ Skills & Technologies

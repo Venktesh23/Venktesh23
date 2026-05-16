@@ -1,8 +1,8 @@
-# Hi, I'm Venktesh 👋
+# Hi, I'm Venktesh
 
 CS student at USF (GPA 3.98) — building at the intersection of AI and full-stack engineering.
 Currently exploring LLMs, AI Agents, and real-world applications of RAG and fine-tuning.
-2x Hackathon Winner | Dean's List | USF Research Assistant
+2x Hackathon Winner | Dean's List | 3 On-Campus jobs
 
 ---
 
